@@ -1,5 +1,5 @@
 # Digital Arts
-Digital Arts Course (a module as part of "Innovation, Creativity and Entrepreneurship -Creative Practice" master level class) taught at Institute of Cultural and Creative Industry (ICCI), Shanghai Jiao Tong University
+Digital Arts (one module of six in "Innovation, Creativity and Entrepreneurship -Creative Practice" master 2018 class) taught at Institute of Cultural and Creative Industry (ICCI), Shanghai Jiao Tong University
 
 ## Learning Outcome
 After finishing this class, student will get:
@@ -24,6 +24,7 @@ After finishing this class, student will get:
 Minhang District, Shanghai)
 
 ## Course Arrangement
+There will be two lectures given by 1-2 instructors for each module. There will be a final presentation after the completion of all module to demonstrate students' works together. Examples of final works to be presented for each module: 1. Sculpture: to carve a sculpture. 2. Chinese Calligraphy and Painting: to produce a calligraphy work or painting. 3. Sound and Storytelling: to produce music for film or animation or live performance. 4. Film and Advertisement Production: to produce an advertising clip or a short film, etc. **5. Digital Art: to produce a new media work of art or installation;** 6. Costume Design: to produce a independently designed clothes.
 
 * The course consists of two phases: 1) Comprehensive Learning Phase, 2) Practice Phase.
 
@@ -33,15 +34,17 @@ Minhang District, Shanghai)
 
 * Teaching Content: The course consists of 6 modules: Sculpture and Oil Painting, Chinese Calligraphy and Painting, Film Production, Sound and Storytelling, Costume Design, Digital Art.
 
-    1. Comprehensive Learning Phase: Students will learn one module each week through two lectures given by different instructors. In this phase, all students are required to be present to attend all lectures covering above 6 modules.
+    1. **Comprehensive Learning Phase:**
+    Students will learn one module each week through two lectures given by different instructors. In this phase, all students are required to be present to attend all lectures covering above 6 modules.
 
-    2. Practice Phase: After completion of the Comprehensive Learning Phase, each student need to choose one module among the 6 to carry out creative practice under the guidance of corresponding instructors. In this phase, students will be divided into 6 classes according to their choices of module. 6 parallel classes will be held simultaneously throughout this phase.
+    2. **Practice Phase:**
+    After completion of the Comprehensive Learning Phase, each student need to choose one module among the 6 to carry out creative practice under the guidance of corresponding instructors. In this phase, students will be divided into 6 classes according to their choices of module. 6 parallel classes will be held simultaneously throughout this phase.
 
-    3. Final Exhibition: For the final presentation, students need to present their individual or group works. Examples of final works to be presented for each module: 1. Sculpture: to carve a sculpture. 2. Chinese Calligraphy and Painting: to produce a calligraphy work or painting. 3. Sound and Storytelling: to produce music for film or animation or live performance. 4. Film and Advertisement Production: to produce an advertising clip or a short film, etc. 5. Digital Art: to produce a new media work of art or installation; 6. Costume Design: to produce a independently designed clothes. Due to different features of each class in various modules, the specific forms of works for presentation that students need to submit in each class are subject to change based on instructors' requirements.
-
-    * Teaching Tasks: There will be two lectures given by 1-2 instructors for each module. There will be a final presentation after the completion of all module to demonstrate students' works together.
+    3. **Final Exhibition:**
+    For the final presentation, students need to present their individual or group works. Due to different features of each class in various modules, the specific forms of works for presentation that students need to submit in each class are subject to change based on instructors' requirements.
 
 ## Digital Arts Module
+Lead by [Aven Le Zhou](https://www.aven.cc).
 
 * The class will meet on following days:
 
