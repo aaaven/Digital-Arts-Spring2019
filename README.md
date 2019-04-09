@@ -50,7 +50,7 @@ Lead by [Aven Le Zhou](https://www.aven.cc).
 
 | Week |  Tuesday Morning | Thursday Afternoon |
 |------|---|---|
-| 7th  | Lecture: Scheduled: 9 Apr 2019 at 10:00 AM to 11:40 AM  |  Lecture Scheduled: 11 Apr 2019 at 2:00 PM to 3:40 PM |
+| 7th  | [Lecture: Scheduled: 9 Apr 2019 at 10:00 AM to 11:40 AM](https://docs.google.com/presentation/d/e/2PACX-1vTx2LWF4-uVJ0VN0e5kLIL34zUgbYBJ3S7ijdBgdnGlai3QU1B-57TOQtZi9Q3mjE_l2oFuN5yoOWDQ/embed?start=false&loop=false&delayms=3000)  |  Lecture Scheduled: 11 Apr 2019 at 2:00 PM to 3:40 PM |
 | 8th  | Lecture: Scheduled: 16 Apr 2019 at 8:00 AM to 11:40 AM  | NA |
 | 9th  | Lecture: Scheduled: 23 Apr 2019 at 8:00 AM to 11:40 AM  |  Lecture Scheduled: 25 Apr 2019 at 2:00 PM to 5:40 PM |
 | 10th | Lecture: Scheduled: 30 Apr 2019 at 8:00 AM to 11:40 AM  |  Lecture Scheduled: 02 May 2019 at 2:00 PM to 5:40 PM |
@@ -80,4 +80,5 @@ Lead by [Aven Le Zhou](https://www.aven.cc).
 
 * A TBA Trip to An Digtial Art Show. 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTx2LWF4-uVJ0VN0e5kLIL34zUgbYBJ3S7ijdBgdnGlai3QU1B-57TOQtZi9Q3mjE_l2oFuN5yoOWDQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+## Slides:
+[Lecture 01: Generative Arts, Interactive Arts and Artificial Intelligence Arts](https://docs.google.com/presentation/d/e/2PACX-1vTx2LWF4-uVJ0VN0e5kLIL34zUgbYBJ3S7ijdBgdnGlai3QU1B-57TOQtZi9Q3mjE_l2oFuN5yoOWDQ/embed?start=false&loop=false&delayms=3000)
