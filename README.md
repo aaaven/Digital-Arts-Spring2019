@@ -79,3 +79,5 @@ Lead by [Aven Le Zhou](https://www.aven.cc).
         6. Finalize Project, Wrap up and Prez
 
 * A TBA Trip to An Digtial Art Show. 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTx2LWF4-uVJ0VN0e5kLIL34zUgbYBJ3S7ijdBgdnGlai3QU1B-57TOQtZi9Q3mjE_l2oFuN5yoOWDQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
