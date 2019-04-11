@@ -60,17 +60,17 @@ Lead by [Aven Le Zhou](https://www.aven.cc).
     
     * Week 08
 
-        1. Creative Coding Basic Lecture/Workshop + Case Study and Sharing
+        1. Creative Coding Basic Lecture/Workshop + Case Study and Discussion
     
     * Week 09
 
-        2. Case Study Prez (by Student) and Discussion + Creative Coding Advanced Lecture/Workshop 
+        2. Case Study Prez and Discussion + Creative Coding Advanced Lecture/Workshop
         
-        3. In Class Excises (Live Coding Demo) + Case Study Prez and Discussion + Project Idea Brain-stroming
+        3. In Class Exercises (Live Coding Demo) +  Project Idea and Case Study Prez and Discussion
     
     * Week 10
 
-        4. Project Development Workshop/ Case-by-case Guide 
+        4. Project Development Workshop/ Case-by-case Guide
         
         5. Project Development Workshop/ Case-by-case Guide
     
@@ -78,4 +78,4 @@ Lead by [Aven Le Zhou](https://www.aven.cc).
     
         6. Finalize Project, Wrap up and Prez
 
-* A TBA Trip to An Digtial Art Show. 
+* A TBA field trip to an digital art show.
