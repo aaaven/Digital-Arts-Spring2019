@@ -51,9 +51,9 @@ Lead by [Aven Le Zhou](https://www.aven.cc).
 | Week |  Tuesday Morning | Thursday Afternoon |
 |------|---|---|
 | 7th  | [Lecture: Scheduled: 9 Apr 2019 at 10:00 AM to 11:40 AM](https://docs.google.com/presentation/d/e/2PACX-1vTx2LWF4-uVJ0VN0e5kLIL34zUgbYBJ3S7ijdBgdnGlai3QU1B-57TOQtZi9Q3mjE_l2oFuN5yoOWDQ/embed?start=false&loop=false&delayms=3000)  |  [Lecture Scheduled: 11 Apr 2019 at 2:00 PM to 3:40 PM](https://docs.google.com/presentation/d/e/2PACX-1vSFFWiHPX2hzJ5tIFp1uaik6YpW_HbTPv4ujVeFOUdrPQL7g_Rv0BAjc0L-iwLyCS7Y3Sw7adEtHahx/pub?start=false&loop=false&delayms=3000) |
-| 8th  | Lecture: Scheduled: 16 Apr 2019 at 8:00 AM to 11:40 AM  | NA |
-| 9th  | Lecture: Scheduled: 23 Apr 2019 at 8:00 AM to 11:40 AM  |  Lecture Scheduled: 25 Apr 2019 at 2:00 PM to 5:40 PM |
-| 10th | Lecture: Scheduled: 30 Apr 2019 at 8:00 AM to 11:40 AM  |  Lecture Scheduled: 02 May 2019 at 2:00 PM to 5:40 PM |
+| 8th  | Intensive: Scheduled: 16 Apr 2019 at 8:00 AM to 11:40 AM  | NA |
+| 9th  | Intensive: Scheduled: 23 Apr 2019 at 8:00 AM to 11:40 AM  |  Intensive Scheduled: 25 Apr 2019 at 2:00 PM to 5:40 PM |
+| 10th | Intensive: Scheduled: 30 Apr 2019 at 8:00 AM to 11:40 AM  |  Intensive Scheduled: 02 May 2019 at 2:00 PM to 5:40 PM |
 | 11th | NA  | Lecture Scheduled: 9 May 2019 at 2:00 PM to 5:40 PM  |
 
 * There will be six intensive classes:
@@ -87,3 +87,5 @@ Lead by [Aven Le Zhou](https://www.aven.cc).
 
   * [Lecture 02: Coding Session - Fractal Tree](lecture02/Tree_f/Tree_f.pde)
   * [Lecture 02: Coding Session - Flowing Time](lecture02/flowing_time/flowing_time.pde)
+
+* [Intensive I](https://docs.google.com/presentation/d/e/2PACX-1vTW8OYWFtNwu-G_2bXvQPhaiuPWUJFvhLcFBfLAlSrWPBKz-Cg_hiKSj2BeIOMmqVm_nXoQQ_SPo0El/pub?start=false&loop=false&delayms=3000)
