@@ -8,7 +8,7 @@ After finishing this class, student will get:
 * 2) Comprehension of concepts of creating digital arts with creative coding.
 * 3) Fluency in practical skill of utilizing creative coding to create arts.
 * 4) To be familiar with the workflow of creative coding projects.
-* 5) Experiences on developing a creative coding based digital arts projects. 
+* 5) Experiences on developing a creative coding based digital arts projects.
 
 ## Teaching Approaches
 * Lectures
@@ -20,11 +20,11 @@ After finishing this class, student will get:
 * **Course Category:** Designated Elective Course
 * **Terms Offered:** 2018-2019 Spring Term (Week 1-16, except Week 3 ,12& 13)
 * **Target Students:** ICCI Master 2018 (63 students)
-* **Teaching Room:** Bldg. A7&A8, ICCI Academic and Research Base in Zizhu International Education Park (155, Tan Jia Tang Road,
+* **Teaching Room:** Bldg. A7&A8, ICCI Academic and Research Base in ZIZHU International Education Park (155, Tan Jia Tang Road,
 Minhang District, Shanghai)
 
 ## Course Arrangement
-There will be two lectures given by 1-2 instructors for each module. There will be a final presentation after the completion of all module to demonstrate students' works together. Examples of final works to be presented for each module: 1. Sculpture: to carve a sculpture. 2. Chinese Calligraphy and Painting: to produce a calligraphy work or painting. 3. Sound and Storytelling: to produce music for film or animation or live performance. 4. Film and Advertisement Production: to produce an advertising clip or a short film, etc. **5. Digital Art: to produce a new media work of art or installation;** 6. Costume Design: to produce a independently designed clothes.
+There will be two lectures given by 1-2 instructors for each module. There will be a final presentation after the completion of all module to demonstrate students' works together. Examples of final works to be presented for each module: 1. Sculpture: to carve a sculpture. 2. Chinese Calligraphy and Painting: to produce a calligraphy work or painting. 3. Sound and Storytelling: to produce music for film or animation or live performance. 4. Film and Advertisement Production: to produce an advertising clip or a short film, etc. **5. Digital Art: to produce a new media work of art or installation;** 6. Costume Design: to produce independently-designed cloths.
 
 * The course consists of two phases: 1) Comprehensive Learning Phase, 2) Practice Phase.
 
@@ -57,32 +57,28 @@ Lead by [Aven Le Zhou](https://www.aven.cc).
 | 11th | NA  | Lecture Scheduled: 9 May 2019 at 2:00 PM to 5:40 PM  |
 
 * There will be six intensive classes:
-    
+
     * Week 08
 
         1. Creative Coding Basic Lecture/Workshop + Case Study and Discussion
-    
+
     * Week 09
 
         2. Case Study Prez and Discussion + Creative Coding Advanced Lecture/Workshop
-        
+
         3. In Class Exercises (Live Coding Demo) +  Project Idea and Case Study Prez and Discussion
-    
+
     * Week 10
 
         4. Project Development Workshop/ Case-by-case Guide
-        
+
         5. Project Development Workshop/ Case-by-case Guide
-    
+
     * Week 11
-    
+
         6. Finalize Project, Wrap up and Prez
 
-<<<<<<< HEAD
-* A TBA field trip to an digital art show.
-=======
-* A TBA Trip to An Digtial Art Show. 
+* (TBA) A Trip to a Digital Art Show.
 
 ## Slides:
 [Lecture 01: Generative Arts, Interactive Arts and Artificial Intelligence Arts](https://docs.google.com/presentation/d/e/2PACX-1vTx2LWF4-uVJ0VN0e5kLIL34zUgbYBJ3S7ijdBgdnGlai3QU1B-57TOQtZi9Q3mjE_l2oFuN5yoOWDQ/embed?start=false&loop=false&delayms=3000)
->>>>>>> bd0ce6006ceda2a7509a28fcd39445a6441c0f0f
