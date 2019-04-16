@@ -20,8 +20,8 @@ void draw() {
   int color_b = int(map(mouseY, 0, height, 80, 100));
   if (counter < 200) {
     fill(color_hue, color_sat, color_b);
-    stroke(100-color_hue,color_sat,color_b);
-      rect(random(width), random(height), random(w), random(h));
+    stroke(100-color_hue, color_sat, color_b);
+    rect(random(width), random(height), random(w), random(h));
     //float r = random(0, 100);
     //println(r);
     //fill(10,50);
