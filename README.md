@@ -88,4 +88,8 @@ Lead by [Aven Le Zhou](https://www.aven.cc).
   * [Lecture 02: Coding Session - Fractal Tree](lecture02/Tree_f/Tree_f.pde)
   * [Lecture 02: Coding Session - Flowing Time](lecture02/flowing_time/flowing_time.pde)
 
-* [Intensive I](https://docs.google.com/presentation/d/e/2PACX-1vTW8OYWFtNwu-G_2bXvQPhaiuPWUJFvhLcFBfLAlSrWPBKz-Cg_hiKSj2BeIOMmqVm_nXoQQ_SPo0El/pub?start=false&loop=false&delayms=3000)
+* [Intensive I: Creative Programming Basics](https://docs.google.com/presentation/d/e/2PACX-1vTW8OYWFtNwu-G_2bXvQPhaiuPWUJFvhLcFBfLAlSrWPBKz-Cg_hiKSj2BeIOMmqVm_nXoQQ_SPo0El/pub?start=false&loop=false&delayms=3000)
+  * [Intensive I: Coding Session - Basics](https://github.com/aaaven/digital-arts/tree/master/Intensive%20I/basics)
+  * [Intensive I: Coding Session - setup() & draw()](https://github.com/aaaven/digital-arts/tree/master/Intensive%20I/setup_draw)
+
+* [Intensive II: Advanced Creative Programming](https://docs.google.com/presentation/d/e/2PACX-1vQActEurLBoHkNZjQwF9zt8h2SgsCwg1YYK0CTWJayMgn_pL16B7v8wqNbFMorZzOTTAPLcYb3xpID9/pub?start=false&loop=false&delayms=3000)
