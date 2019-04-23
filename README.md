@@ -93,3 +93,7 @@ Lead by [Aven Le Zhou](https://www.aven.cc).
   * [Intensive I: Coding Session - setup() & draw()](https://github.com/aaaven/digital-arts/tree/master/Intensive%20I/setup_draw)
 
 * [Intensive II: Advanced Creative Programming](https://docs.google.com/presentation/d/e/2PACX-1vQActEurLBoHkNZjQwF9zt8h2SgsCwg1YYK0CTWJayMgn_pL16B7v8wqNbFMorZzOTTAPLcYb3xpID9/pub?start=false&loop=false&delayms=3000)
+  * [Intensive II: Coding Session - mouse_keyboard_ix](https://github.com/aaaven/digital-arts/tree/master/Intensive%20II/mouse_keyborad_ix)
+  * [Intensive II: Coding Session - pixels](https://github.com/aaaven/digital-arts/tree/master/Intensive%20II/pixels)
+  * [Intensive II: Coding Session - pixels_forloop](https://github.com/aaaven/digital-arts/tree/master/Intensive%20II/pixels_forloop)
+  * [Intensive II: Coding Session - pixels_mouse_ix](https://github.com/aaaven/digital-arts/tree/master/Intensive%20II/pixels_mouse_ix)
