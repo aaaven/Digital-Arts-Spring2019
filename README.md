@@ -97,3 +97,5 @@ Lead by [Aven Le Zhou](https://www.aven.cc).
   * [Intensive II: Coding Session - pixels](https://github.com/aaaven/digital-arts/tree/master/Intensive%20II/pixels)
   * [Intensive II: Coding Session - pixels_forloop](https://github.com/aaaven/digital-arts/tree/master/Intensive%20II/pixels_forloop)
   * [Intensive II: Coding Session - pixels_mouse_ix](https://github.com/aaaven/digital-arts/tree/master/Intensive%20II/pixels_mouse_ix)
+  * [Intensive II: Coding Session - load_images](https://github.com/aaaven/digital-arts/tree/master/Intensive%20II/load_images)
+  * [Intensive II: Coding Session - pixel_manipulation](https://github.com/aaaven/digital-arts/tree/master/Intensive%20II/pixel_manipulation)
