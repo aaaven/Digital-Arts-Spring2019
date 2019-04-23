@@ -80,7 +80,7 @@ Lead by [Aven Le Zhou](https://www.aven.cc).
 
 * (TBA) A Trip to a Digital Art Show.
 
-## Slides:
+## Slides and Code Demos:
 * [Lecture 01: Generative Arts, Interactive Arts and Artificial Intelligence Arts](https://docs.google.com/presentation/d/e/2PACX-1vTx2LWF4-uVJ0VN0e5kLIL34zUgbYBJ3S7ijdBgdnGlai3QU1B-57TOQtZi9Q3mjE_l2oFuN5yoOWDQ/embed?start=false&loop=false&delayms=3000)
 
 * [Lecture 02: Culture Computing + Coding Session](https://docs.google.com/presentation/d/e/2PACX-1vSFFWiHPX2hzJ5tIFp1uaik6YpW_HbTPv4ujVeFOUdrPQL7g_Rv0BAjc0L-iwLyCS7Y3Sw7adEtHahx/pub?start=false&loop=false&delayms=3000)
